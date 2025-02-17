@@ -1,0 +1,6 @@
+[
+  {
+    "path": "assets/collection.json",
+    "error": "missing field `image` at line 35 column 1"
+  }
+]

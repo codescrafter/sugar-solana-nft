@@ -1,0 +1,38 @@
+{
+  "number": 2,
+  "symbol": "W",
+  "name": "Wow",
+  "sellerFeeBasisPoints": 800,
+  "isMutable": true,
+  "isSequential": true,
+  "ruleSet": null,
+  "creators": [
+    {
+        "address": "DdDyqRLX5TWBcaGo45Zu99LzkuKjaCG2U4WHd67KKiCw",
+        "share": 50
+    },
+    {
+        "address": "8127mtA3ECpYz1y5aLExkjRWBRMMDGV5rba6XC4To6is",
+        "share": 50
+    }
+],
+  "uploadMethod": "bundlr",
+  "awsS3Bucket": null,
+  "retainAuthority": true,
+  "awsConfig": null,
+  "nftStorageAuthToken": null,
+  "shdwStorageAccount": null,
+  "pinataConfig": null,
+  "hiddenSettings": null,
+  "guards": {
+    "default": {
+      "solPayment": {
+        "value": 0.01,
+        "destination": "HN8iQSm4yHuMxNnvWc9CdUGP7y4v7n2pS9bH6X4KiT1y"
+      },
+      "startDate": {
+        "date": "2022-10-23T20:00:00Z"
+      }
+    }
+  }
+}

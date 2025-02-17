@@ -1,0 +1,17 @@
+{
+  "name": "Wow",
+  "symbol": "W",
+  "image": "collection.png",
+  "sellerFeeBasisPoints": 800,
+  "properties": {
+    "files": [
+      {
+        "uri": "collection.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  },
+  "description": "A Set of test NFT's for the Solana Blockchain",
+    "attributes": []
+}

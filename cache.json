@@ -1,0 +1,34 @@
+{
+  "program": {
+    "candyMachine": "HXLYWg6FmNHATUkSXxTmwFsbkGPsoPLxw4PFZZnyvTdX",
+    "candyGuard": "EvunnfPoTti9R3ZtCgHzvGyXqr7rKG1b7Jj5dNa5MHuK",
+    "candyMachineCreator": "2i4GboeGwtvkxRNYm3HcVwXH7PtZxi3nh1vD3RQ7RNVf",
+    "collectionMint": "6EHenY7uWX6ZKUnsjhSYtH1E7ikJ92GGrnCDY3V7SBtz"
+  },
+  "items": {
+    "-1": {
+      "name": "Wow",
+      "image_hash": "2260e2f01fc7eae1a9180969d24e6f8afd72a5f6625d176ebfc2f2231d678d41",
+      "image_link": "https://gateway.irys.xyz/4WGpGfsQzkCTcSXJwwiAbpcFaMmHfkVTSeiRZwrp8NKk?ext=png",
+      "metadata_hash": "dc51595ff0b3b86fc79f6716c310aa149cfa99afa247d06858e83acb004495dd",
+      "metadata_link": "https://gateway.irys.xyz/AVdGP1nCTYhg6RWWPnURcNjz5RGwayv9MmATL7epyCPC",
+      "onChain": true
+    },
+    "0": {
+      "name": "Wow #0",
+      "image_hash": "3dc0e90a8e67c3b3cbfb57af37bf02908a52ecdffabb611931b9b92cb6d5f9c6",
+      "image_link": "https://gateway.irys.xyz/ERMNqNJJX7hANp7sJWxyQKhmivjVFX3MRQp4r5z23Z9m?ext=png",
+      "metadata_hash": "d17821524f4fdea1279351c3ff461985402d239d9f64b02b49461a9d43215f61",
+      "metadata_link": "https://gateway.irys.xyz/2cnz5PdEeBRXvePyFAHPmTagb8rAAQFzU28DXhzecTzv",
+      "onChain": true
+    },
+    "1": {
+      "name": "Wow #1",
+      "image_hash": "1d1b54d2d8a732a11f3fb3985e429fa9aaa0442f3a9ba866c9ead915f05eed10",
+      "image_link": "https://gateway.irys.xyz/GZCb7wZsNHnG6H5EUDPCEyvUkLHzr1R74ur1aRvm8yWw?ext=png",
+      "metadata_hash": "5948c56c616ebcad8807faa87c6f7b37fde23dd3e480711302b3440823d35035",
+      "metadata_link": "https://gateway.irys.xyz/86K3RwzUVHso5h42Cqfh8stou2h4iJi1bEKNzR378NDF",
+      "onChain": true
+    }
+  }
+}
