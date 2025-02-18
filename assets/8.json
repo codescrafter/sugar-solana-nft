@@ -1,0 +1,13 @@
+{
+    "name": "Full Mint #8",
+    "symbol": "FM",
+    "image": "8.png",
+    "sellerFeeBasisPoints": 800,
+    "properties": {
+      "files": [{ "uri": "8.png", "type": "image/png" }],
+      "category": "image"
+    },
+    "description": "A set of test NFTs for the Solana blockchain",
+    "attributes": [{ "trait_type": "Number", "value": "8" }]
+  }
+  

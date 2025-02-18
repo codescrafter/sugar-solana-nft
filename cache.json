@@ -1,33 +1,97 @@
 {
   "program": {
-    "candyMachine": "HXLYWg6FmNHATUkSXxTmwFsbkGPsoPLxw4PFZZnyvTdX",
-    "candyGuard": "EvunnfPoTti9R3ZtCgHzvGyXqr7rKG1b7Jj5dNa5MHuK",
-    "candyMachineCreator": "2i4GboeGwtvkxRNYm3HcVwXH7PtZxi3nh1vD3RQ7RNVf",
-    "collectionMint": "6EHenY7uWX6ZKUnsjhSYtH1E7ikJ92GGrnCDY3V7SBtz"
+    "candyMachine": "6RfLDmP53SMJmXh725gQum5BUWaBxw6kKsD7hn7ecu8Q",
+    "candyGuard": "Gar6fDaibvCVca3iCcoqa2AdhANtZsYaqVbN29kbavxw",
+    "candyMachineCreator": "E34yLRewFgt9AubQK4huMGnPWHRSTUHiKkXpP2RixjbU",
+    "collectionMint": "C48NrLKsHLKbfNiRZcUvCqhSRQtRj71BCZXNWK9nRmRn"
   },
   "items": {
     "-1": {
-      "name": "Wow",
+      "name": "Full Mint",
       "image_hash": "2260e2f01fc7eae1a9180969d24e6f8afd72a5f6625d176ebfc2f2231d678d41",
-      "image_link": "https://gateway.irys.xyz/4WGpGfsQzkCTcSXJwwiAbpcFaMmHfkVTSeiRZwrp8NKk?ext=png",
-      "metadata_hash": "dc51595ff0b3b86fc79f6716c310aa149cfa99afa247d06858e83acb004495dd",
-      "metadata_link": "https://gateway.irys.xyz/AVdGP1nCTYhg6RWWPnURcNjz5RGwayv9MmATL7epyCPC",
+      "image_link": "https://gateway.irys.xyz/ExVqUHt7BQfPN5mVLYLkgSLe6UrUys8mbo8iSW5ec3p1?ext=png",
+      "metadata_hash": "2439dfb903c86ecc7e44329c2f1fd169650acc227d5002c61483a938955633b7",
+      "metadata_link": "https://gateway.irys.xyz/6V5EZj6MQQ7DAoE5pAcQn7cHSpPP5yk8pnLJYN5QaCNu",
       "onChain": true
     },
     "0": {
-      "name": "Wow #0",
+      "name": "Full Mint #0",
       "image_hash": "3dc0e90a8e67c3b3cbfb57af37bf02908a52ecdffabb611931b9b92cb6d5f9c6",
-      "image_link": "https://gateway.irys.xyz/ERMNqNJJX7hANp7sJWxyQKhmivjVFX3MRQp4r5z23Z9m?ext=png",
-      "metadata_hash": "d17821524f4fdea1279351c3ff461985402d239d9f64b02b49461a9d43215f61",
-      "metadata_link": "https://gateway.irys.xyz/2cnz5PdEeBRXvePyFAHPmTagb8rAAQFzU28DXhzecTzv",
+      "image_link": "https://gateway.irys.xyz/HX56S6wirkAmN7seWGi2UxQ7Mstd9uGWU5PMNPqga924?ext=png",
+      "metadata_hash": "a32242839c0731a0e110d2e4cb8ad72c35761f86c40574542fc819f8819efda0",
+      "metadata_link": "https://gateway.irys.xyz/6gYVNed1fWcKCU9B444txykgsQCvXfrhNnkaQDjCbFCZ",
       "onChain": true
     },
     "1": {
-      "name": "Wow #1",
+      "name": "Full Mint #1",
       "image_hash": "1d1b54d2d8a732a11f3fb3985e429fa9aaa0442f3a9ba866c9ead915f05eed10",
-      "image_link": "https://gateway.irys.xyz/GZCb7wZsNHnG6H5EUDPCEyvUkLHzr1R74ur1aRvm8yWw?ext=png",
-      "metadata_hash": "5948c56c616ebcad8807faa87c6f7b37fde23dd3e480711302b3440823d35035",
-      "metadata_link": "https://gateway.irys.xyz/86K3RwzUVHso5h42Cqfh8stou2h4iJi1bEKNzR378NDF",
+      "image_link": "https://gateway.irys.xyz/9bgEctwVj9ZPbtnt7AxReJ9bGCEgEvBKXje7ie2i9t4c?ext=png",
+      "metadata_hash": "7186979d7b38e04f7952797d7bc6acece602c3f097dfb5bd7bed8e705a92616b",
+      "metadata_link": "https://gateway.irys.xyz/J58k3LpkU9gfkJTajiZomHdBMwmTMEvzw1JjLyAVyPLU",
+      "onChain": true
+    },
+    "2": {
+      "name": "Full Mint #2",
+      "image_hash": "567f8a02f7e44eedfbf67ca95cf31b9aa1ed151b17610fe71bd939536be4eefa",
+      "image_link": "https://gateway.irys.xyz/7KrDdoak1bv6k6fjep2XZuiicrccYKFXPCiLDGuUBANY?ext=png",
+      "metadata_hash": "0def130ded5c3b5e1760c1d519f577ee73aab9991db54c4cd1837e9bd9873170",
+      "metadata_link": "https://gateway.irys.xyz/5EqU9ZoBPaTx5bw7Ji16eu9Xnk3wMMeBYTHP2GnP7a2N",
+      "onChain": true
+    },
+    "3": {
+      "name": "Full Mint #3",
+      "image_hash": "297e7468b1588d0c328c5d90aac027d8f6eb9fd9dc456902acb21206f9084909",
+      "image_link": "https://gateway.irys.xyz/HkPMN6XFk7ePsy8s1LrgWbvrYmWAhounZoQdBofgJfyE?ext=png",
+      "metadata_hash": "2f9a0eb1438220c52678c8c335d4e0d64f63abd249e7e010a4e990ce20d0277a",
+      "metadata_link": "https://gateway.irys.xyz/2NbFZnzoWJU4x4PUxMchsqt1LLP7ZwACq3WTUiy2pMwK",
+      "onChain": true
+    },
+    "4": {
+      "name": "Full Mint #4",
+      "image_hash": "697b401f1fcaa3e5b063a7ab0d41147643bbcb81167291d419843123b207439c",
+      "image_link": "https://gateway.irys.xyz/FcfzYgizfEogjBUUA5E7F6o1h7wUjN5t2wwyQvX927hP?ext=png",
+      "metadata_hash": "2a17b16612e1bcfc1c257321d478a65a28b0920086cb0614b1a2e98834c95ace",
+      "metadata_link": "https://gateway.irys.xyz/4js7YmG9NZvgs51cgY7dv7tsYKbLdit8cCQuN6gdhkvv",
+      "onChain": true
+    },
+    "5": {
+      "name": "Full Mint #5",
+      "image_hash": "7590ff782a1cc891fd943a4cf79cc1e74cbcf8ce8f0dd0e81e5568e04b22e110",
+      "image_link": "https://gateway.irys.xyz/CHuuVkUQy2HjNEQwN2GFEGKfqSdTdTX52xq8u4YAZfqn?ext=png",
+      "metadata_hash": "34c1bd9a9d86de0c267047203d8f4947d8b310b78dc910be691a2fed2f2efeb4",
+      "metadata_link": "https://gateway.irys.xyz/DdU3nyC9MmRcLj4YunnHQ1hrPUauiA6ooVaEMKEKdwT6",
+      "onChain": true
+    },
+    "6": {
+      "name": "Full Mint #6",
+      "image_hash": "c2748badccf9fa8b84de0aeda6cdf1c44b8815140f80d852d15d5e8acf56bb2a",
+      "image_link": "https://gateway.irys.xyz/DwnmdMyLQ4QkrzHFbtqoPPjijxcD8LmEdT1yS5bZcqp3?ext=png",
+      "metadata_hash": "8b3bc9357a6afb8ec442410d4dff919d1976a06f0ddef9fd7b1a815b3ad7dd35",
+      "metadata_link": "https://gateway.irys.xyz/G8skguPgB1xkmbmM7HKBRf2mhkZRaBTmYgLT6fM53KLo",
+      "onChain": true
+    },
+    "7": {
+      "name": "Full Mint #7",
+      "image_hash": "68f447680c546293c94eff6cfc9d7d049644daba75b7cb9b2b45045672789751",
+      "image_link": "https://gateway.irys.xyz/5dfBoQx1CkaD26d6nGxPAuNtVuLShxt9peVTL5X4K6J9?ext=png",
+      "metadata_hash": "7c48add7f112444690d746aeba53d5088e84bc2646bfedab66e0086c9aa613e8",
+      "metadata_link": "https://gateway.irys.xyz/4cRprafUPRZCQYqSt1Ma35v82H2xoj3xhvwWuP3S8ReG",
+      "onChain": true
+    },
+    "8": {
+      "name": "Full Mint #8",
+      "image_hash": "6c2012321ff68c945d2d488ea4c9441ad26ea6afde47ca0d1457fa6c5affd6f7",
+      "image_link": "https://gateway.irys.xyz/FeUHBThtwxa1B3fHEVvC9t3Cboi8bmRRReyunPbX8LKz?ext=png",
+      "metadata_hash": "ae5d7e4d206659f74ce26a4368a8d5ea0b1d6694643b4b546f28b168fea6fd01",
+      "metadata_link": "https://gateway.irys.xyz/HJ36N5frAaJ3fAFvC2TT37gXBZytWcALbbVDsaKvxxbm",
+      "onChain": true
+    },
+    "9": {
+      "name": "Full Mint #9",
+      "image_hash": "a77904e594f78853946c55d538d83e20120b06096bdffc8dbad8f720d9a2ee1d",
+      "image_link": "https://gateway.irys.xyz/BrdqusTKH4KN2gGRA7zZddEKyrD6wcoMLD9aSmNsSuVv?ext=png",
+      "metadata_hash": "175ace41f9b8cac7371cce9211f45271120334f8d60a3b38ae6dc891e731a7f6",
+      "metadata_link": "https://gateway.irys.xyz/5zr6qXQ6MSkgtckrRegr9paNSx7uNnYjcViGm29X7mtu",
       "onChain": true
     }
   }

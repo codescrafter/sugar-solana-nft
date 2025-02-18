@@ -1,6 +1,6 @@
 {
-  "name": "Wow #0",
-  "symbol": "W",
+  "name": "Full Mint #0",
+  "symbol": "FM",
   "image": "0.png",
   "sellerFeeBasisPoints": 800,
   "properties": {
@@ -8,5 +8,5 @@
     "category": "image"
   },
   "description": "A set of test NFTs for the Solana blockchain",
-  "attributes": [{ "trait_type": "Number", "value": "15" }]
+  "attributes": [{ "trait_type": "Number", "value": "0" }]
 }

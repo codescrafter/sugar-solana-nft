@@ -1,10 +1,10 @@
 {
-  "number": 2,
-  "symbol": "W",
-  "name": "Wow",
+  "number": 10,
+  "symbol": "FM",
+  "name": "Full Mint",
   "sellerFeeBasisPoints": 800,
   "isMutable": true,
-  "isSequential": true,
+  "isSequential": false,
   "ruleSet": null,
   "creators": [
     {
